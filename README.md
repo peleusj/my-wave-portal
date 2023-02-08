@@ -1,3 +1,4 @@
 ## buildspace Wave Portal contract 👋 
 
-- [project homepage](https://buildspace.so/builds/solidity)
+- [original project homepage](https://buildspace.so/builds/solidity)
+- [personal project frontend](https://github.com/peleusj/my-wave-portal-ui)
